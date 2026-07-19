@@ -1,3 +1,9 @@
+# Data is not a part of a codebase and not open to distribution
+data/
+
+# App configuration
+config/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
